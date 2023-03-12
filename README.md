@@ -6,6 +6,10 @@ https://y0uk1.github.io/Task-Management-App-Vue/
 
 Please add task you need to do.
 
+# Demo
+![Demo Movie](/img/demo.gif)
+
+# Start Vue Project
 ## Project setup
 ```
 npm install
@@ -30,5 +34,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-# DEMO
-![Demo Movie](/img/demo.gif)
+
